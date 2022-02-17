@@ -1,0 +1,16 @@
+{
+    "base_url":"https://github.com/",
+    "username":"ulysse.rouard@gmail.com",
+    "password":"ExogitDC75000",
+    "hashTags":["python"],
+    "settings":{
+        "headless":false
+    },
+    "selectors":{
+        "signin_button":"input[type='sign in']",
+        "username_field":"input[type='text']",
+        "password_field":"input[type='password']",
+        "login_button":"button[type='submit']"
+    }
+
+}
